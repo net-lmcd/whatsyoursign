@@ -1,2 +1,3 @@
 # whatsyoursign
-whats your sign
+sangmin - dog
+
