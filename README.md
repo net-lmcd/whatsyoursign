@@ -1,4 +1,4 @@
 # whatsyoursign
 sangmin - dog <br/>
-donguk - dog
+donguk - dog <br/>
 minseok -dog
